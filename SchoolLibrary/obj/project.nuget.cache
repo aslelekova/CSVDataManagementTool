@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqe6NryBaJh+E+JsS74HeiQeZp3iZRjjkGoYsrtBdwBvrxDiJODokGUmsdKsXdE96q6JwA/Cmym2xjeqOlpqAA==",
+  "success": true,
+  "projectFilePath": "/Users/anastasialelekova/Desktop/SchoolLibrary/SchoolLibrary/SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/anastasialelekova/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/anastasialelekova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
